@@ -7,16 +7,20 @@ body {
 }
 
 .highlight {
-    background-color: #fff3cd;
+    color: #2980b9; 
     font-weight: bold;
-    padding: 10px;
-    border-left: 5px solid #ffc107;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
 }
 
 #special {
-    color: #004a99;
-    text-transform: uppercase;
-    text-decoration: underline;
+    background-color: #2c3e50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 8px;
+    letter-spacing: 2px;
 }
 
 table {
